@@ -80,6 +80,7 @@ Por favor, lea atentamente antes de ejecutar este script.
     Web Oficial: La única web oficial para EASYMAILTOTAL es: https://github.com/eduayaqq/easymail NO DESCARGUE DE NINGUNA OTRA FUENTE.
 
 🇬🇧 Postfix, Dovecot & PostfixAdmin Setup Script for CentOS 10
+
 💻 Project Overview
 
 This interactive Bash script automates the installation and configuration of a complete email server using Postfix, Dovecot, and PostfixAdmin on a CentOS 10 distribution. It simplifies a complex process, from dependency installation to database configuration and SELinux security, allowing you to have a functional email server up and running in no time.
