@@ -9,6 +9,7 @@ Official Website: The only official website for EASYMAILTOTAL is: https://github
 ✅ ENGLISH ON BOTTOM
 
 Este README está disponible en español e inglés. A continuación, se encuentra la versión en español, seguida de la versión en inglés.
+
 💻 Resumen del Proyecto
 
 Este script interactivo de Bash automatiza la instalación y configuración de un servidor de correo completo utilizando Postfix, Dovecot y PostfixAdmin en una distribución CentOS 10. Simplifica un proceso complejo, desde la instalación de dependencias hasta la configuración de la base de datos y la seguridad SELinux, permitiéndote tener un servidor de correo funcional en poco tiempo.
