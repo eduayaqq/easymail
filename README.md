@@ -79,6 +79,12 @@ Por favor, lea atentamente antes de ejecutar este script.
 
     Web Oficial: La única web oficial para EASYMAILTOTAL es: https://github.com/eduayaqq/easymail NO DESCARGUE DE NINGUNA OTRA FUENTE.
 
+💻 USO:
+
+    sudo ./easymail.sh
+
+✅ Y solo siga instrucciones.
+
 🇬🇧 Postfix, Dovecot & PostfixAdmin Setup Script for CentOS 10
 
 💻 Project Overview
@@ -149,3 +155,9 @@ Please read carefully before running this script.
     Official Contact: For commercial purposes or modifications, the only official contact is: eduayaqq14@gmail.com (Eduardo Ayala). The alteration or manipulation of this content is prohibited without contact with the original developer. Downloading this code modified by a third party does not exempt you from the responsibilities mentioned herein.
 
     Official Website: The only official website for EASYMAILTOTAL is: https://github.com/eduayaqq/easymail DO NOT DOWNLOAD FROM ANY OTHER SOURCE.
+
+💻 USE:
+
+    sudo ./easymail.sh
+
+✅ And only follow instructions.
