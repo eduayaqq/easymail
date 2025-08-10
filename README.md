@@ -6,7 +6,11 @@ Official Website: The only official website for EASYMAILTOTAL is: https://github
 
 💻 PLUS!!! Ejecute primero staticip.sh, esto le permitira fijar su IP para evitar problemas posteriores.
 
+💻 PLUS!!! El script checkports.sh contiene staticip.sh integrado, este script le permite fijar su IP y ademas abrir los puertos locales necesarios para la correcta recepción y envio de correos, no olvide que para que los correos puedan ser enviados o recibidos, debe abrir los puertos de su modem y/o router, en futuras versiones (aun estamos en beta) seran unificados los scripts para que solo necesite ejecutar una sola vez.
+
 💻 PLUS!!! Run staticip.sh first, this will allow you to fix your IP to avoid future problems.
+
+💻 PLUS!!! The checkports.sh script includes a built-in staticip.sh script, which allows you to set your IP address and also open the local ports needed to properly receive and send emails, don't forget that in order for emails to be sentor recieved, you must open the ports on your modem and/or router. In future versions (we are still in beta) the scripts will be unified so that you only need to run them once.
 
 🚀 Postfix, Dovecot & PostfixAdmin Setup Script for CentOS 10
 
