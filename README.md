@@ -1,8 +1,8 @@
 EASYMAILTOTAL beta 1.0
 
-Web Oficial: La única web oficial para EASYMAILTOTAL es: https://github.com/eduayaqq/easymail NO DESCARGUE DE NINGUNA OTRA FUENTE.
+Web Oficial: La única web oficial para EASYMAILTOTAL es: https://github.com/eduayaqq/easymail.git NO DESCARGUE DE NINGUNA OTRA FUENTE.
 
-Official Website: The only official website for EASYMAILTOTAL is: https://github.com/eduayaqq/easymail DO NOT DOWNLOAD FROM ANY OTHER SOURCE.
+Official Website: The only official website for EASYMAILTOTAL is: https://github.com/eduayaqq/easymail.git DO NOT DOWNLOAD FROM ANY OTHER SOURCE.
 
 🚀 Postfix, Dovecot & PostfixAdmin Setup Script for CentOS 10
 
