@@ -5,6 +5,7 @@ Web Oficial: La única web oficial para EASYMAILTOTAL es: https://github.com/edu
 Official Website: The only official website for EASYMAILTOTAL is: https://github.com/eduayaqq/easymail.git DO NOT DOWNLOAD FROM ANY OTHER SOURCE.
 
 💻 PLUS!!! Ejecute primero staticip.sh, esto le permitira fijar su IP para evitar problemas posteriores.
+
 💻 PLUS!!! Run staticip.sh first, this will allow you to fix your IP to avoid future problems.
 
 🚀 Postfix, Dovecot & PostfixAdmin Setup Script for CentOS 10
